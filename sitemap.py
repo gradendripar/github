@@ -8,7 +8,7 @@ headers={
 response = requests.get(url=url,headers=headers)
 response.encoding = 'utf-8'
 url_list= re.findall('<loc>(.*?)</loc>',response.text,re.S)
-with open('urls.txt','w') as f:2
+with open('urls.txt','w') as f:
     f.write('https://tooziya.com'+'\n')
     f.write('https://www.tooziya.com'+'\n')
     for url in url_list:
