@@ -16,8 +16,6 @@ with open('blog_urls.txt','w') as f:
     f.write('https://video.tooziya.com'+'\n')
     f.write('https://jx.tooziya.com'+'\n')
     f.write('https://music.tooziya.com'+'\n')
-    f.write('https://tools.tooziya.com'+'\n')
-    f.write('https://idc.tooziya.com'+'\n')
     f.write('https://blog.tooziya.com'+'\n')
     f.write('https://www.tooziya.com'+'\n')
     for url in url_list:
