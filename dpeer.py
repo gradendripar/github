@@ -7,6 +7,6 @@ today_time = datetime.now()
 
 img_url = ["https://s1.ax1x.com/2022/03/31/qRF3P1.png"]
 
-requests.get(url=f'https://cqhttp.tooziya.com/send_private_msg?user_id=1501311105&message=同桌 加油鸭！o>_<o 距离考研还有{(dpeer_time-today_time).days}天16时00分00秒了[CQ:image,file={img_url[0]}]')
+requests.get(url=f'https://cqhttp.tooziya.com/send_private_msg?user_id=2598143170&message=同桌 加油鸭！o>_<o 距离考研还有{(dpeer_time-today_time).days}天16时00分00秒了[CQ:image,file={img_url[0]}]')
 
 
