@@ -7,9 +7,10 @@ https://jx.tooziya.com
 https://music.tooziya.com
 https://blog.tooziya.com
 https://www.tooziya.com
-https://blog.tooziya.com/navigation.html
+https://blog.tooziya.com/timeline.html
+https://blog.tooziya.com/live.html
 https://blog.tooziya.com/statistics.html
-https://blog.tooziya.com/image.html
+https://blog.tooziya.com/wallpaper.html
 https://blog.tooziya.com/friends.html
 https://blog.tooziya.com/about.html
 https://blog.tooziya.com/post/32.html
